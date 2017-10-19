@@ -22,7 +22,7 @@ div {
   border-top-color: #f00;
 }
 
-#red { /* this selects any elements with the red id */
+#green { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
 
